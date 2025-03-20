@@ -1,4 +1,4 @@
-##  👋 Hi Vinita Kumawat
+#  👋 Hi Vinita Kumawat
 
 # SDET | QA Engineer | Automation Testing Specialist
 I am a passionate and results-driven Software Development Engineer in Test (SDET) with hands-on expertise in both automation and manual testing. I specialize in designing scalable and robust testing frameworks, ensuring software quality, and working closely with cross-functional teams to deliver exceptional user experiences. My commitment to continuous learning and innovation drives me to explore the latest tools and technologies in the testing domain.
