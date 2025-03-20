@@ -14,3 +14,14 @@ I am a results-driven Software Development Engineer in Test (SDET) with expertis
 ### 🛠️ Development Tools   
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)     ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)   ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
+## 📂 Projects
+### [Hackathon Project: Tutorial Ninja](https://github.com/VinitaKumawat/TutorialNinja_8192-1)
+Performed comprehensive manual testing on the"Tutorial Ninja" project to ensure functionality, usability, and performance.
+
+Designed and executed detailed test cases covering core features and interactive elements.
+
+Conducted functional, UI, and usability testing to identify defects and inconsistencies.
+
+Documented test results, reported issues, and collaborated with developers for quick bug resolution.
+
+Participated actively in team discussions to strategize testing approaches and enhance product quality
