@@ -30,9 +30,9 @@ I am a passionate and results-driven Software Development Engineer in Test (SDET
  ### [Luni Interface Automation Project](https://github.com/yourusername/your-repo)
 * Built a robust automation testing framework using Cypress with POM and BDD.
 
-*Automated critical scenarios to validate seamless navigation and product functionality.
+* Automated critical scenarios to validate seamless navigation and product functionality.
 
-*Engaged with developers to address issues and boost website reliability.
+* Engaged with developers to address issues and boost website reliability.
 
 ## 🏆 Achievements
 
