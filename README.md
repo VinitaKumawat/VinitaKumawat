@@ -69,11 +69,11 @@ I am a passionate and results-driven Software Development Engineer in Test (SDET
 
 ## Why This Version Stands Out:
 
-Professional Tone: Focused on showcasing your expertise and achievements in a concise and impactful manner.
-Clear Structure: Sections are well-organized, making it easy to navigate.
-Focused Content: Highlights your skills, projects, and goals without unnecessary distractions.
-Visual Appeal: Uses subtle visuals (GitHub stats) to enhance engagement without overwhelming.
-Employer-Centric: Tailored to demonstrate value to potential employers and collaborators.
+* Professional Tone: Focused on showcasing your expertise and achievements in a concise and impactful manner.
+* Clear Structure: Sections are well-organized, making it easy to navigate.
+* Focused Content: Highlights your skills, projects, and goals without unnecessary distractions.
+* Visual Appeal: Uses subtle visuals (GitHub stats) to enhance engagement without overwhelming.
+* Employer-Centric: Tailored to demonstrate value to potential employers and collaborators.
 
 
 
