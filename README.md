@@ -17,27 +17,36 @@ I am a results-driven Software Development Engineer in Test (SDET) with expertis
 ## 📂 Projects
 ### [Hackathon Project: Tutorial Ninja](https://github.com/VinitaKumawat/TutorialNinja_8192-1)
 * Performed comprehensive manual testing on the"Tutorial Ninja" project to ensure functionality, usability, and performance.
-
 * Designed and executed detailed test cases covering core features and interactive elements.
-
 * Conducted functional, UI, and usability testing to identify defects and inconsistencies.
-
 * Documented test results, reported issues, and collaborated with developers for quick bug resolution.
-
 * Participated actively in team discussions to strategize testing approaches and enhance product quality
 
  ### [Luni Interface Automation Project](https://github.com/yourusername/your-repo)
-* Developed an automation testing framework using Cypress with POM and BDD.
-  
+* Developed an automation testing framework using Cypress with POM and BDD. 
 * Automated test scenarios to validate seamless navigation and product listings.
-
 * Collaborated with developers to resolve issues and enhance website functionality.
 
-##🏆 Achievements
+## 🏆 Achievements
 
 [Hackathon Certificate](https://drive.google.com/file/d/1nIkhatldvGxyQR-nRNSP1EOADShIv43W/view)
 
 [Certificate of Completion - Manual](https://drive.google.com/file/d/15QUHAp3iWeYmlK8EvEnZosY720_Xr_gz/view)
+
+## 🔮 Future Goals
+* Master advanced tools like Playwright and Appium for mobile testing.
+* Gain expertise in performance testing using tools like JMeter and Gatling.
+* Explore AI-driven testing frameworks to enhance test coverage and efficiency.
+* Contribute to open-source testing projects and build a personal automation testing library.
+* Share knowledge through blogs, tutorials, and mentorship programs for aspiring QA professionals.
+
+## 📜 Professional Summary
+* Skilled in developing and implementing automation frameworks using tools like Cypress, Selenium, and TestNG.
+* Proficient in programming languages such as Java, JavaScript, and Python.
+* Experienced in manual testing, including exploratory, regression, and usability testing.
+* Adept at utilizing PostmanAPI for API testing and Jira for bug tracking and collaboration.
+* Focused on optimizing testing processes through POM (Page Object Model) and BDD (Behavior-Driven Development) methodologies.
+* Strong communicator with a proven ability to work in dynamic, team-oriented environments.
 
 
 
