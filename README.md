@@ -33,5 +33,11 @@ I am a results-driven Software Development Engineer in Test (SDET) with expertis
 
 * Collaborated with developers to resolve issues and enhance website functionality.
 
+##🏆 Achievements
+[Hackathon Certificate](https://drive.google.com/file/d/1nIkhatldvGxyQR-nRNSP1EOADShIv43W/view)
+
+[Certificate of Completion - Manual](https://drive.google.com/file/d/15QUHAp3iWeYmlK8EvEnZosY720_Xr_gz/view)
+
+
 
  
