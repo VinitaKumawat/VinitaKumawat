@@ -1,9 +1,9 @@
 #  👋 Hi, I'm Vinita Kumawat
 
-# SDET | QA Engineer | Automation Testing Specialist
+### *SDET | QA Engineer | Automation Testing Specialist*
 I am a passionate and results-driven Software Development Engineer in Test (SDET) with hands-on expertise in both automation and manual testing. I specialize in designing scalable and robust testing frameworks, ensuring software quality, and working closely with cross-functional teams to deliver exceptional user experiences. My commitment to continuous learning and innovation drives me to explore the latest tools and technologies in the testing domain.
 
-## 🛠️ Technical Skills
+## 🛠️ *Technical Skills*
 
 ### 💻 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)           ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -34,13 +34,13 @@ I am a passionate and results-driven Software Development Engineer in Test (SDET
 
 * Engaged with developers to address issues and boost website reliability.
 
-## 🏆 Achievements
+## 🏆 *Achievements*
 
- 🥇 [Hackathon Certificate](https://drive.google.com/file/d/1nIkhatldvGxyQR-nRNSP1EOADShIv43W/view)
+ 🎓 [Hackathon Certificate](https://drive.google.com/file/d/1nIkhatldvGxyQR-nRNSP1EOADShIv43W/view)
 
  🎓 [Certificate of Completion - Manual](https://drive.google.com/file/d/15QUHAp3iWeYmlK8EvEnZosY720_Xr_gz/view)
 
-## 🔮 Future Goals
+## 🔮 *Future Goals*
 * Master advanced testing tools like Playwright and Appium for mobile automation.
 
 * Enhance expertise in performance testing using tools like JMeter and Gatling.
@@ -51,29 +51,29 @@ I am a passionate and results-driven Software Development Engineer in Test (SDET
 
 * Share knowledge via blogs, tutorials, and mentorship for aspiring QA engineers.
 
-## 📜 Professional Summary
-* Proficient in designing and implementing automation frameworks using Cypress, Selenium, and TestNG.
+## 📜 *Professional Summary*
+- Skilled in developing and implementing **automation frameworks** using tools like **Cypress**, **Selenium**, and **TestNG*.
+- Proficient in programming languages such as **Java**, **JavaScript**.
+- Experienced in **manual testing**, including exploratory, regression, and usability testing.
+- Adept at utilizing **PostmanAPI** for API testing and **Jira** for bug tracking and collaboration.
+- Focused on optimizing testing processes through **POM (Page Object Model)** and **BDD (Behavior-Driven Development)** methodologies.
+- Strong communicator with a proven ability to work in dynamic, team-oriented environments.
 
-* Skilled in manual testing, including exploratory, regression, and usability testing.
-
-* Experienced in utilizing Postman API for API testing and Jira for issue tracking and collaboration.
-
-* Strong communicator and team player with a focus on quality assurance and process optimization.
 
  ## 🤝 Connect with Me
 
- * 🌐 LinkedIn [LinkedIn vinita-kumawat-700a61227/](https://www.linkedin.com/in/vinita-kumawat-700a61227/)
- * 💻 GitHup [ GitHup ](https://github.com/VinitaKumawat)
- * ✉️ Email vinitakumawat6350@gmail.com
- * 📝 Resume [Resume](https://drive.google.com/file/d/1VDFdwDZo6PfLdzz7ypnrhSmrRGxzEorr/view?usp=sharing)
+ * 🌐 **LinkedIn** [LinkedIn vinita-kumawat-700a61227/](https://www.linkedin.com/in/vinita-kumawat-700a61227/)
+ * 💻 **GitHup** [ GitHup ](https://github.com/VinitaKumawat)
+ * ✉️ **Email** vinitakumawat6350@gmail.com
+ * 📝 **Resume** [Resume](https://drive.google.com/file/d/1VDFdwDZo6PfLdzz7ypnrhSmrRGxzEorr/view?usp=sharing)
 
 ## Why This Version Stands Out:
 
-* Professional Tone: Focused on showcasing your expertise and achievements in a concise and impactful manner.
-* Clear Structure: Sections are well-organized, making it easy to navigate.
-* Focused Content: Highlights your skills, projects, and goals without unnecessary distractions.
-* Visual Appeal: Uses subtle visuals (GitHub stats) to enhance engagement without overwhelming.
-* Employer-Centric: Tailored to demonstrate value to potential employers and collaborators.
+1. **Professional Tone**: Focused on showcasing your expertise and achievements in a concise and impactful manner.
+2. **Clear Structure**: Sections are well-organized, making it easy to navigate.
+3. **Focused Content**: Highlights your skills, projects, and goals without unnecessary distractions.
+4. **Visual Appeal**: Uses subtle visuals (GitHub stats) to enhance engagement without overwhelming.
+5. **Employer-Centric**: Tailored to demonstrate value to potential employers and collaborators.
 
 
 
